@@ -1,4 +1,4 @@
-# Weather App
+# 1- Weather App
 
 This is a simple command-line weather forecast application developed using Python.
 
@@ -38,7 +38,7 @@ Wind Speed: 5.7 km/h
 
 
 
-# Strong Password Generator
+# 2- Strong Password Generator
 
 This is a simple Python program that generates strong, random passwords.
 
