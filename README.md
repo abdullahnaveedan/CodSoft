@@ -29,21 +29,15 @@ The Weather App retrieves weather data from the OpenWeatherMap API based on user
 ```bash
 python weather_app.py
 
-
-
 Enter city or zip code: New York
 Temperature: 26°C
 Humidity: 65%
 Description: Partly Cloudy
 Wind Speed: 5.7 km/h
+```
 
 
 
-
-
-**Project 2: Strong Password Generator**
-
-```markdown
 # Strong Password Generator
 
 This is a simple Python program that generates strong, random passwords.
