@@ -35,6 +35,9 @@ Humidity: 65%
 Description: Partly Cloudy
 Wind Speed: 5.7 km/h
 ```
+
+## Screenshot
+
 ![image](https://github.com/abdullahnaveedan/Codesoft/assets/128359566/60f07b45-2f0a-403a-9c4e-cf5d11a9ca33)
 
 
@@ -72,6 +75,7 @@ python password_generator.py
 Enter the length of the password: 12
 Generated Password: aB3$XyzPq9#1
 ```
+## Screenshot 
 
 ![image](https://github.com/abdullahnaveedan/Codesoft/assets/128359566/2e1e7373-e061-4cd6-bf70-bd00b5cdfa45)
 
@@ -98,5 +102,7 @@ This is a basic calculator application built using the Tkinter library in Python
 - Supports basic arithmetic operations: addition, subtraction, multiplication, and division.
 - Provides square and square root operations.
 - Clear and delete functionalities for ease of use.
+
+## Screenshot
 
 ![image](https://github.com/abdullahnaveedan/Codesoft/assets/128359566/b457bb5b-0bd1-4889-a9a3-05bc94e539c6)
