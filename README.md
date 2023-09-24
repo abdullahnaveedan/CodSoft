@@ -35,6 +35,7 @@ Humidity: 65%
 Description: Partly Cloudy
 Wind Speed: 5.7 km/h
 ```
+![image](https://github.com/abdullahnaveedan/Codesoft/assets/128359566/60f07b45-2f0a-403a-9c4e-cf5d11a9ca33)
 
 
 
@@ -71,3 +72,30 @@ python password_generator.py
 Enter the length of the password: 12
 Generated Password: aB3$XyzPq9#1
 
+![image](https://github.com/abdullahnaveedan/Codesoft/assets/128359566/2e1e7373-e061-4cd6-bf70-bd00b5cdfa45)
+
+# Simple Calculator
+
+This is a basic calculator application built using the Tkinter library in Python.
+
+## Usage
+
+1. Run the Python script in a compatible environment.
+2. The calculator GUI will appear.
+3. Perform calculations using the buttons provided.
+4. Press the '=' button to get the result.
+5. Press 'C' to clear the display.
+6. Press 'x' to delete the last character.
+7. Use '^' to square the displayed number.
+
+## Dependencies
+
+- Tkinter (standard Python library)
+
+## Features
+
+- Supports basic arithmetic operations: addition, subtraction, multiplication, and division.
+- Provides square and square root operations.
+- Clear and delete functionalities for ease of use.
+
+![image](https://github.com/abdullahnaveedan/Codesoft/assets/128359566/b457bb5b-0bd1-4889-a9a3-05bc94e539c6)
