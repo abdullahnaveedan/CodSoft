@@ -71,10 +71,11 @@ python password_generator.py
 
 Enter the length of the password: 12
 Generated Password: aB3$XyzPq9#1
+```
 
 ![image](https://github.com/abdullahnaveedan/Codesoft/assets/128359566/2e1e7373-e061-4cd6-bf70-bd00b5cdfa45)
 
-# Simple Calculator
+# 3- Simple Calculator
 
 This is a basic calculator application built using the Tkinter library in Python.
 
